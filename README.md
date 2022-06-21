@@ -5,8 +5,7 @@
 - 📫 How to reach me 🔔Coming Soon🔔
 
 
-<img src="https://www.youtube.com/favicon.ico">
- ● Minhamm
+<img src="https://www.youtube.com/favicon.ico"> ● Minhamm
 <!---
 Ralle-SilverStone/Ralle-SilverStone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
